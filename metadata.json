@@ -1,0 +1,9 @@
+{
+  "name": "Colégio Reação - Melhor Colégio Particular no Recanto das Emas",
+  "description": "Website oficial do Colégio Reação no Recanto das Emas, Brasília - DF. Escola particular de excelência com Educação Infantil, Fundamental e Médio. Matrículas 2026 abertas.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
